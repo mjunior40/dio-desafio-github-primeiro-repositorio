@@ -1,0 +1,36 @@
+# Introdução ao Scrum
+
+
+
+#### Conceito básico:
+
+- Scrum é um dos frameworks de gerenciamento de projetos, de preferência deve ser feito utilizando equipes pequenas e multidisciplinares para produzir os melhores resultados.
+
+
+
+#### Gestão de Projetos (Tradicional x Ágil):
+
+- Tradicional: só permite que o projeto avance quando uma fase está completa. "demanda muito tempo"
+- Ágil: O software é construído por partes e cada um executa-se em um ciclo interativo.
+
+ Obs: em projetos tradicionais, corre-se o risco de descobrir que errou depois de meses, com o Scrum descobre-se o erro em no máximo 30 dias.
+
+
+
+#### Pilares do Scrum:
+
+- Transparência
+- Adaptação
+- Inspeção
+
+
+
+#### Motivos para adotar o Scrum:
+
+- Desenvolvido e entregue em partes menores (entre 2 e 4 semanas.), com bastante feedback dos usuários.
+- Melhor gerenciamento de risco
+- Maior valor para o negócio
+- Usuários envolvidos durante todo o ciclo
+- Melhoria contínua, devido a aplicação das lições aprendidas.
+- Comprometimento, motivação e transparência da equipe.
+

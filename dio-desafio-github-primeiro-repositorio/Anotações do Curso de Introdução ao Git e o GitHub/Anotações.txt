@@ -1,0 +1,45 @@
+# Introdução ao Git e GitHub :man_technologist:
+
+
+
+- Git é um software de versionamento de código.
+- GitHub é um repositório onde se guarda o código.
+
+
+
+#### Alguns comandos básicos:
+
+
+
+- cd
+- dir
+- mkdir
+- ctrl+l
+- tab
+- rmdir
+
+
+
+- Sha1: é um conjunto de funções hash criptografadas e dessa encriptação gera-se um conjunto de 40 caracteres identificadores do arquivo.
+- Blobs: contém metadados do git e tem o sha1 do arquivo
+- Trees: armazenam as blobs e podem apontar para diferentes tipos  de blobs
+- Commit: engloba as blobs e as trees, é o objeto que junta tudo, a commit também possui um sha1 e é única para cada autor.
+- Chave ssh: é uma forma de estabelecer conexão segura entre duas máquinas.
+- Token: é um substituto da senha, porém deve ser guardado em um local seguro, pois geralmente só é visto  uma única vez aonde o mesmo é gerado.
+- Arquivo Markdown: é uma forma mais humana de escrever o arquivo html.
+
+
+
+#### Tipos de arquivos:
+
+- Staged: é a área em que o arquivo espera algum comando
+- modified: é o arquivo já modificado, o git sabe que o arquivo foi modificado comparando o sha1 de ambos os arquivos.
+- Unmodifield: é o arquivo sem alterações, um arquivo recém criado.
+-  Obs: Quando um arquivo está em staged, ele está se preparando para ser uma commit e todos os arquivos voltam a ser unmodified. 
+
+
+
+
+
+
+
